@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/ThanatPay/build-NLP-project/actions/workflows/main.yml/badge.svg)](https://github.com/ThanatPay/build-NLP-project/actions/workflows/main.yml)
 # build-NLP-project
 This repo for build nlp project
 
