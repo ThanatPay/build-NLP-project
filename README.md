@@ -10,3 +10,5 @@ run this to allow executing file as program, leaves you with the exact same resu
 chmod +x wikiphrases.py
 ```
 run `./wikiphrases.py ` in terminal to run python file
+
+## build Dockerfile
