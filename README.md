@@ -11,4 +11,8 @@ chmod +x wikiphrases.py
 ```
 run `./wikiphrases.py ` in terminal to run python file
 
-## build Dockerfile
+## Create web service
+build Dockerfile and FastAPI to create web service.
+
+## Deploy with Elastic Container Registry (ECR)
+push a container into ECR repo for trigger a build with AWS App runner. 
